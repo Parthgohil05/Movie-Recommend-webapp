@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: SRC-REPO
+Version: 0.0.1
+Summary: A simple python package to make a simple web application
+Author: PARTH GOHIL
+Author-email: parthgohil0723@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+streamlit
+
+-e .

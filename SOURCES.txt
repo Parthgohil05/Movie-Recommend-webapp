@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/__init__.py
+src/SRC_REPO.egg-info/PKG-INFO
+src/SRC_REPO.egg-info/SOURCES.txt
+src/SRC_REPO.egg-info/dependency_links.txt
+src/SRC_REPO.egg-info/top_level.txt
